@@ -43,6 +43,7 @@ a {
 a:hover {
     color: #404BBF;
     cursor: pointer;
+    text-decoration: underline;
 }
 address a{
 
@@ -128,6 +129,10 @@ h2 {
     background-color: var(--brand-color);
     width: 1440px;
     height: 312px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 1020px;
+    padding-left: 156px;
 }
 .footer-section p{
     color: #F4F4FD;
